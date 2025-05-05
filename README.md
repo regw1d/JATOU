@@ -29,14 +29,10 @@ If you’re new to Terraria mods, don’t worry—it’s pretty straightforward!
 
 ## Useful Links  
 Here are some buttons to help you out:  
-- If you want to download the mod, use this:  
-  [![Download](https://img.shields.io/badge/Download-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
-- If you run into any bugs or problems, you can let me know here:  
-  [![Report Bugs](https://img.shields.io/badge/Report-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)  
-- If you like the mod and want to support its development, you can do so here:  
-  [![Support](https://img.shields.io/badge/Support-Boosty-blue)](https://boosty.to/regw1d)  
-- Learn more about Terraria on its official website:  
-  [![Terraria](https://img.shields.io/badge/Terraria-Official-orange)](https://terraria.org/)  
+- If you want to download the mod, use this: [![Download](https://img.shields.io/badge/Download-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
+- If you run into any bugs or problems, you can let me know here:  [![Report Bugs](https://img.shields.io/badge/Report-Bugs-red)](https://github.com/regw1d)  
+- If you like the mod and want to support its development, you can do so here: [![Support](https://img.shields.io/badge/Support-Boosty-blue)](https://boosty.to/regw1d)  
+- Learn more about Terraria on its official website: [![Terraria](https://img.shields.io/badge/Terraria-Official-orange)](https://terraria.org/)  
 
 ---
 
@@ -71,11 +67,9 @@ Here are some buttons to help you out:
 
 ## Полезные ссылки  
 Вот несколько кнопок, чтобы было удобнее:  
-- Чтобы скачать мод, нажми сюда:  
-  [![Скачать](https://img.shields.io/badge/Скачать-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
-- Если найдешь баги или проблемы, сообщи мне здесь:  
-  [![Сообщить о багах](https://img.shields.io/badge/Сообщить-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)  
-- Если мод тебе понравился и хочешь поддержать его развитие, можешь сделать это тут:  
-  [![Поддержать](https://img.shields.io/badge/Поддержать-Boosty-blue)](https://boosty.to/regw1d)  
-- Узнай больше о Terraria на официальном сайте:  
-  [![Terraria](https://img.shields.io/badge/Terraria-Официальный-orange)](https://terraria.org/)
+- Чтобы скачать мод, нажми сюда: [![Скачать](https://img.shields.io/badge/Скачать-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
+- Если найдешь баги или проблемы, сообщи мне здесь: [![Сообщить о багах](https://img.shields.io/badge/Сообщить-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)  
+- Если мод тебе понравился и хочешь поддержать его развитие, можешь сделать это тут: [![Поддержать](https://img.shields.io/badge/Поддержать-Boosty-blue)](https://boosty.to/regw1d)  
+- Узнай больше о Terraria на официальном сайте: [![Terraria](https://img.shields.io/badge/Terraria-Официальный-orange)](https://terraria.org/)
+
+---
