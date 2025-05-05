@@ -1,0 +1,4 @@
+Just Another Totem of Undying
+A Terraria mod inspired by Minecraft!
+The Totem of Undying saves you from death, healing 150 HP and granting buffs for 10 seconds.
+Plays a sound and shows a chat message.
