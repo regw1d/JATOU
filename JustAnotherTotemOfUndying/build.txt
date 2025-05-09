@@ -1,3 +1,0 @@
-displayName = Just Another Totem of Undying
-author = regw1d
-version = 0.2
