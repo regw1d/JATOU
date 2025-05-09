@@ -1,0 +1,19 @@
+Just Another Totem of Undying
+
+When the Totem of Undying is in your inventory, you won't die but heal for 150 HP and gain buffs for 10 seconds.
+
+Crafting:
+- 30 Gold Bars (or Platinum Bars)
+- 1 Life Crystal
+- 4 Solar Fragments
+- 4 Vortex Fragments
+- 4 Nebula Fragments
+- 4 Stardust Fragments
+- 15 Souls of Light
+- 15 Souls of Night
+- Crafted at the Lunar Crafting Station
+
+Changelog:
+- Version 0.3 has been published to Stable tModLoader v2025.3
+  - Added green particles alongside yellow ones when the Totem activates, enhancing the visual effect with vibrant colors.
+  - Removed chat notification when the Totem is activated for a cleaner experience.
