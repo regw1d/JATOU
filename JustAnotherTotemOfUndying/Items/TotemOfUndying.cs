@@ -14,7 +14,7 @@ namespace JustAnotherTotemOfUndying.Items
         {
             Item.width = 16;
             Item.height = 16;
-            Item.rare = (byte)ItemRarityID.Red;
+            Item.rare = (byte)ItemRarityID.Yellow;
             Item.value = Item.sellPrice(gold: 10);
             Item.maxStack = 1;
         }
@@ -23,6 +23,7 @@ namespace JustAnotherTotemOfUndying.Items
         {
             CreateRecipe()
                 .AddIngredient(ItemID.GoldBar, 30)
+                .AddIngredient(ItemID.LifeCrystal, 1)
                 .AddIngredient(ItemID.FragmentSolar, 4)
                 .AddIngredient(ItemID.FragmentVortex, 4)
                 .AddIngredient(ItemID.FragmentNebula, 4)
@@ -34,6 +35,7 @@ namespace JustAnotherTotemOfUndying.Items
 
             CreateRecipe()
                 .AddIngredient(ItemID.PlatinumBar, 30)
+                .AddIngredient(ItemID.LifeCrystal, 1)
                 .AddIngredient(ItemID.FragmentSolar, 4)
                 .AddIngredient(ItemID.FragmentVortex, 4)
                 .AddIngredient(ItemID.FragmentNebula, 4)
