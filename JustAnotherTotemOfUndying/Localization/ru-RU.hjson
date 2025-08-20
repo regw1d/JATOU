@@ -1,0 +1,10 @@
+Mods: {
+	JustAnotherTotemOfUndying: {
+		Items: {
+			TotemOfUndying: {
+				DisplayName: Тотем бессмертия
+				Tooltip: Тотем бессмертия, способный спасти вашу жизнь... Круто не так ли?
+			}
+		}
+	}
+}

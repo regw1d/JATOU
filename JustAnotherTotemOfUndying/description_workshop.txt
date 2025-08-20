@@ -1,0 +1,23 @@
+Just Another Totem of Undying
+
+This mod adds the Totem of Undying, capable of saving your life in a critical moment.
+
+The Totem of Undying is crafted at the Lunar Crafting Station with the following materials:
+10 Gold Bars (or 10 Platinum Bars)
+1 Life Crystal
+2 Solar Fragments
+2 Vortex Fragments
+2 Nebula Fragments
+2 Stardust Fragments
+4 Souls of Light
+4 Souls of Night
+
+Compatibility Warning:
+It is strongly advised not to use this mod with others that uncap the game's framerate (e.g., High FPS Support). This is known to cause compatibility issues that can lead to a game crash when the totem activates.
+
+Changelog:
+ - Version 0.5
+   - Added a new, custom texture for the totem.
+   - Added new craft recipe
+   - Fixed issues for better stability.
+   - New mod icon 
