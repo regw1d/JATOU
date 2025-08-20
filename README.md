@@ -1,75 +1,91 @@
-**English**
+### **English**
 
-# Just Another Totem of Undying  
+# Just Another Totem of Undying
 
-Hi there! This is a small mod for Terraria that brings in the Totem of Undying, something you might recognize if you’ve played Minecraft. It’s a neat little item that can save your life when things get tough in the game. Let’s go over what it does, how to set it up, and what you need to know.  
+Hi there! This is a small mod for Terraria that brings in the **Totem of Undying**, an item you might recognize if you’ve played Minecraft. It’s a powerful artifact that can save your life when things get tough. Let’s go over what it does, how to get it, and what you need to know.
 
-## What Does This Mod Do?  
-The Totem of Undying is a special item that activates automatically when you’re about to die from fatal damage. It’ll heal you for 150 HP (but won’t go over your max health), give you some helpful buffs for 10 seconds (Water Breathing, Obsidian Skin, Regeneration, Swiftness, and Iron Skin), play a custom sound, and show a message in the chat saying "Totem of Undying activated!" in yellow. After it saves you, the totem disappears, and you can only hold one in a slot at a time to keep things balanced.  
+## What Does This Mod Do?
+The Totem of Undying is a special item that activates automatically when you’re about to die. When it saves you, it will:
+*   Instantly heal you for **222 HP** (but won't exceed your max health).
+*   Grant you **2 seconds of immunity** to avoid taking damage right after revival.
+*   Give you helpful buffs for **10 seconds**: Water Breathing, Obsidian Skin, Regeneration, Swiftness, and Ironskin.
+*   Create a cool visual burst of gold and green particles.
+*   Play a custom sound effect to signal its activation.
 
-To craft the totem, you’ll need:  
-- 30 Gold Bars OR 30 Platinum Bars (your choice, depending on what’s in your world)  
-- 4 Solar Fragments, 4 Vortex Fragments, 4 Nebula Fragments, 4 Stardust Fragments  
-- 15 Souls of Light, 15 Souls of Night  
-- A Lunar Crafting Station to craft it  
+After it's used, the totem is consumed. To keep things balanced, you can only stack one totem per inventory slot.
 
-The mod supports two languages: English and Russian, so you can play in either one comfortably.  
+### How to Craft
+To craft the totem, you’ll need a **Lunar Crafting Station** and the following materials:
+- 10 Gold Bars **OR** 10 Platinum Bars
+- 1 Life Crystal
+- 2 Solar Fragments, 2 Vortex Fragments, 2 Nebula Fragments, 2 Stardust Fragments
+- 4 Souls of Light, 4 Souls of Night
 
-## How to Install  
-If you’re new to Terraria mods, don’t worry—it’s pretty straightforward! Here’s what to do:  
-1. First, you’ll need tModLoader, which is a tool that lets you run mods in Terraria. You can get it on Steam here: [tModLoader](https://store.steampowered.com/app/1281930/tModLoader/).  
-2. Download this mod by clicking the "Download" button below. It’ll take you to the Steam Workshop page.  
-3. Alternatively, you can clone this repository and build the mod manually. Place the mod folder into `Documents\My Games\Terraria\tModLoader\ModSources\JustAnotherTotemOfUndying`.  
-4. Open tModLoader, go to "Workshop" -> "Develop Mods", find "JustAnotherTotemOfUndying", and click "Build". This will compile the mod for you.  
-5. Start a new game in tModLoader, enable the mod in the mod list, and you’re good to go!  
+The mod supports two languages: English and Russian.
 
-## Important Notes  
-- **Early Version:** This mod is still in its early stages, so there might be some bugs or things that don’t work perfectly yet. I’m working on improving it!  
-- **Compatibility Warning:** I wouldn’t recommend using this mod with other mods that add similar Totems of Undying or death-prevention mechanics. They might conflict and cause issues in your game.  
+## How to Install
+If you’re new to Terraria mods, don’t worry—it’s pretty straightforward!
+1.  First, you’ll need **tModLoader**. You can get it directly on Steam: [tModLoader on Steam](https://store.steampowered.com/app/1281930/tModLoader/).
+2.  The easiest way is to find the mod on the Steam Workshop and subscribe. You can find it using the download button below.
+3.  Alternatively, you can clone this repository and build the mod manually. Place the mod folder into `Documents\My Games\Terraria\tModLoader\ModSources\JustAnotherTotemOfUndying`.
+4.  Open tModLoader, go to "Workshop" -> "Develop Mods", find "JustAnotherTotemOfUndying", and click "Build" and "Reload".
+5.  Enable the mod in the "Mods" menu, and you’re good to go!
 
-## Useful Links  
-Here are some buttons to help you out:  
-- If you want to download the mod, use this: [![Download](https://img.shields.io/badge/Download-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
-- If you run into any bugs or problems, you can let me know here:  [![Report Bugs](https://img.shields.io/badge/Report-Bugs-red)](https://github.com/regw1d)  
-- If you like the mod and want to support its development, you can do so here: [![Support](https://img.shields.io/badge/Support-Boosty-blue)](https://boosty.to/regw1d)  
-- Learn more about Terraria on its official website: [![Terraria](https://img.shields.io/badge/Terraria-Official-orange)](https://terraria.org/)  
+## Important Notes
+- **Early Version:** This mod is still in its early stages, so you might encounter some bugs. I’m actively working on improving it!
+- **Compatibility Warning:**
+    - It is **strongly advised not to use** this mod with others that uncap the game's framerate (e.g., *High FPS Support*). This is known to cause a game crash when the totem activates.
+    - Using this mod with other mods that add similar death-prevention mechanics may cause conflicts.
+
+## Useful Links
+- Download the mod from the Steam Workshop: [![Download](https://img.shields.io/badge/Download-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)
+- If you find any bugs, please report them here: [![Report Bugs](https://img.shields.io/badge/Report-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)
+- If you like the mod and want to support its development: [![Support](https://img.shields.io/badge/Support-Boosty-blue)](https://boosty.to/regw1d)
+- Learn more about Terraria on its official website: [![Terraria](https://img.shields.io/badge/Terraria-Official-orange)](https://terraria.org/)
 
 ---
 
-**Русский**
+### **Русский**
 
-# Ещё один Тотем бессмертия  
+# Ещё один Тотем бессмертия
 
-Привет! Это небольшой мод для Terraria, который добавляет Тотем бессмертия — вещь, которую ты мог видеть в Minecraft. Этот предмет может спасти тебе жизнь, когда всё становится слишком опасным. Давай разберём, что он делает, как его установить и что важно знать.  
+Привет! Это небольшой мод для Terraria, который добавляет **Тотем бессмертия** — вещь, которую ты мог видеть в Minecraft. Этот мощный артефакт может спасти тебе жизнь, когда всё становится слишком опасным. Давай разберём, что он делает, как его получить и что важно знать.
 
-## Что делает этот мод?  
-Тотем бессмертия — это особый предмет, который автоматически срабатывает, когда ты получаешь смертельный урон. Он вылечит тебя на 150 HP (но не больше твоего максимума), даст полезные баффы на 10 секунд (Водное дыхание, Обсидиановая кожа, Регенерация, Скорость и Железная кожа), проиграет звук и покажет в чате сообщение "Тотем бессмертия активирован!" жёлтым цветом. После использования тотем исчезает, и ты можешь держать только один в слоте, чтобы всё было сбалансировано.  
+## Что делает этот мод?
+Тотем бессмертия — это особый предмет, который автоматически срабатывает, когда ты получаешь смертельный урон. При активации он:
+*   Мгновенно вылечит тебя на **222 HP** (но не больше твоего максимума).
+*   Даст **2 секунды неуязвимости**, чтобы ты не умер сразу после возрождения.
+*   Наложит полезные баффы на **10 секунд**: Водное дыхание, Обсидиановая кожа, Регенерация, Скорость и Железная кожа.
+*   Создаст красивый визуальный эффект из золотых и зелёных частиц.
+*   Проиграет уникальный звук, чтобы ты понял, что тотем сработал.
 
-Для крафта тотема тебе понадобится:  
-- 30 золотых слитков ИЛИ 30 платиновых слитков (выбирай, что есть в твоём мире)  
-- 4 Солнечных частицы, 4 Вихревых частицы, 4 Туманных частицы, 4 Звёздных частицы  
-- 15 душ света, 15 душ тьмы  
-- Станция лунного крафта для создания  
+После использования тотем исчезает. Для баланса в одном слоте инвентаря может находиться только один тотем.
 
-Мод поддерживает два языка: английский и русский, так что можешь играть на любом из них.  
+### Как создать
+Для крафта тотема тебе понадобится **Манипулятор древних** и следующие материалы:
+- 10 золотых слитков **ИЛИ** 10 платиновых слитков
+- 1 кристалл жизни
+- 2 фрагмента солнца, 2 фрагмента вихря, 2 фрагмента туманности, 2 фрагмента звёздной пыли
+- 4 души света, 4 души ночи
 
-## Как установить  
-Если ты не особо знаком с модами для Terraria, не переживай — всё просто! Вот что нужно сделать:  
-1. Сначала тебе нужен tModLoader — это программа, которая позволяет запускать моды в Terraria. Скачай её в Steam тут: [tModLoader](https://store.steampowered.com/app/1281930/tModLoader/).  
-2. Скачай этот мод, нажав на кнопку "Скачать" ниже. Она приведёт тебя на страницу Steam Workshop.  
-3. Или можешь клонировать этот репозиторий и собрать мод вручную. Положи папку мода в `Documents\My Games\Terraria\tModLoader\ModSources\JustAnotherTotemOfUndying`.  
-4. Открой tModLoader, зайди в "Workshop" -> "Develop Mods", найди "JustAnotherTotemOfUndying" и нажми "Build". Это соберёт мод для игры.  
-5. Запусти новую игру в tModLoader, включи мод в списке модов, и всё готово!  
+Мод поддерживает два языка: английский и русский.
 
-## Важные заметки  
-- **Ранняя версия:** Этот мод пока на ранней стадии разработки, так что могут быть баги или недочёты. Я работаю над улучшениями!  
-- **Предупреждение о совместимости:** Лучше не использовать этот мод вместе с другими модами, которые добавляют похожие Тотемы бессмертия или механики спасения от смерти. Они могут конфликтовать и ломать игру.  
+## Как установить
+Если ты не особо знаком с модами для Terraria, не переживай — всё просто!
+1.  Сначала тебе нужен **tModLoader**. Его можно скачать прямо в Steam: [tModLoader в Steam](https://store.steampowered.com/app/1281930/tModLoader/).
+2.  Самый простой способ — найти мод в Мастерской Steam и подписаться. Ссылка есть на кнопке "Скачать" ниже.
+3.  Или можешь клонировать этот репозиторий и собрать мод вручную. Помести папку мода в `Documents\My Games\Terraria\tModLoader\ModSources\JustAnotherTotemOfUndying`.
+4.  Открой tModLoader, зайди в "Мастерская" -> "Разрабатывать моды", найди "JustAnotherTotemOfUndying" и нажми "Собрать" и "Перезагрузить".
+5.  Включи мод в меню "Моды", и всё готово!
 
-## Полезные ссылки  
-Вот несколько кнопок, чтобы было удобнее:  
-- Чтобы скачать мод, нажми сюда: [![Скачать](https://img.shields.io/badge/Скачать-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)  
-- Если найдешь баги или проблемы, сообщи мне здесь: [![Сообщить о багах](https://img.shields.io/badge/Сообщить-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)  
-- Если мод тебе понравился и хочешь поддержать его развитие, можешь сделать это тут: [![Поддержать](https://img.shields.io/badge/Поддержать-Boosty-blue)](https://boosty.to/regw1d)  
+## Важные заметки
+- **Ранняя версия:** Мод пока на ранней стадии разработки, так что могут быть баги. Я активно работаю над улучшениями!
+- **Предупреждение о совместимости:**
+    - **Настоятельно не рекомендуется** использовать этот мод вместе с модами, которые снимают ограничение FPS (например, *High FPS Support*). Это известная проблема, которая приводит к вылету игры при активации тотема.
+    - Использование мода вместе с другими, добавляющими похожие механики спасения от смерти, может вызвать конфликты.
+
+## Полезные ссылки
+- Скачать мод из Мастерской Steam: [![Скачать](https://img.shields.io/badge/Скачать-Workshop-brightgreen)](https://steamcommunity.com/sharedfiles/filedetails/?id=3476341523)
+- Если найдешь баги, сообщи мне здесь: [![Сообщить о багах](https://img.shields.io/badge/Сообщить-Bugs-red)](https://github.com/regw1d/JustAnotherTotemOfUndying/issues)
+- Если мод тебе понравился и хочешь поддержать его развитие: [![Поддержать](https://img.shields.io/badge/Поддержать-Boosty-blue)](https://boosty.to/regw1d)
 - Узнай больше о Terraria на официальном сайте: [![Terraria](https://img.shields.io/badge/Terraria-Официальный-orange)](https://terraria.org/)
-
----
